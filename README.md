@@ -1,4 +1,5 @@
-# Neural Network Charity Analysis## Overview of the analysis
+# Neural Network Charity Analysis
+## Overview of the analysis
 
 The goal of the project was to create and train deep learning model on [Alphabet Soup Charity dataset]( https://github.com/angkohtenko/Neural_Network_Charity_Analysis/blob/f281f5df7678ec25af9efafe7af135a3e2f91f6c/Resources/charity_data.csv) in order to predict whether applicants will be successful if funded by charity organization - Alphabet Soup.
 
